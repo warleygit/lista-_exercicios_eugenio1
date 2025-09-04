@@ -17,5 +17,5 @@ if (opcao=='2'){
 if(opcao=='3'){
    valorTotal=gasolina*litros; 
     
-    console.log(" o valor total do abastecimento e de "+  valorTotal);
+    console.log("o  jjjjvalor total do abastecimento e de "+  valorTotal);
 }
