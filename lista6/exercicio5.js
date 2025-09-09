@@ -1,6 +1,6 @@
 let nome = "CHUCRÂO";
 let tipo = 3;     // tipo de praga
-let area = 350;
+let area = 300;
 let preco = 0;
 
 // escolha do preço por acre
